@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.15/miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
+  ROM_URL: https://hugeota.d.miui.com/21.12.27/miui_ALIOTHPRE_21.12.27_9e4dec9ebc_12.0.zip
   ROM_Version: miui21.4.15
   TZ: Asia/Shanghai
 
